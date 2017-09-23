@@ -49,7 +49,7 @@ Android Studio - https://developer.android.com/studio/index.html
 
 A step by step series of examples that tell you have to get a development env running
 
-# Ubuntu
+#### Ubuntu
 
 First.....install Oracle Java JDK on Ubuntu Linux
      
@@ -73,7 +73,7 @@ Second..... install Android Studio
 The information above came from the following page:
 https://askubuntu.com/questions/634082/how-to-install-android-studio-on-ubuntu
 
-# Mac
+#### Mac
 
 First.....install Oracle Java JDK on Mac
 The link below will guide you in installing Java onto your Mac system:
