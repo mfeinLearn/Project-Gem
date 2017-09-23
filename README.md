@@ -49,17 +49,42 @@ Android Studio - https://developer.android.com/studio/index.html
 
 A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
+#Ubuntu
 
-```
-Give the example
-```
+First.....install Oracle Java JDK on Ubuntu Linux
+     
+     sudo add-apt-repository ppa:webupd8team/java
+     sudo apt-get update
+     sudo apt-get install oracle-java8-installer
 
-And repeat
+    After that
 
-```
-until finished
-```
+     sudo apt-get install oracle-java8-set-default
+
+Second..... install Android Studio
+
+ 1.   https://developer.android.com/studio/index.html
+ 
+ 2.   sudo unzip android-studio-ide-141.2178183-linux.zip -d /opt
+ 
+ 3. To launch Android Studio, navigate to the /opt/android-studio/bin directory in a terminal and execute ./studio.sh.
+
+
+The information above came from the following page:
+https://askubuntu.com/questions/634082/how-to-install-android-studio-on-ubuntu
+
+#Mac
+
+First.....install Oracle Java JDK on Mac
+The link below will guide you in installing Java onto your Mac system:
+https://java.com/en/download/help/mac_install.xml
+
+Second..... install Android Studio
+
+The link below will guide you in installing Android Studio onto your Mac:
+
+https://developer.android.com/studio/index.html
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
