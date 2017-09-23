@@ -86,9 +86,6 @@ The link below will guide you in installing Android Studio onto your Mac:
 https://developer.android.com/studio/index.html
 
 
-End with an example of getting some data out of the system or using it for a little demo
-
-
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
