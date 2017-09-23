@@ -102,13 +102,7 @@ To deploy the project follow the steps below:
 
 ## Built With
 
-You should be able to clone StarGem's Git repository and open it in Android Studio. It is being developed on an Ubuntu 16.0 and MacOS using Android Studio as our development environment.[Dependencies](#dependencies) are included in the Git branch.
-
-For full contributing requirements, please read our [Contributing](docs/Contributing.md) docs.
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+You should be able to clone StarGem's Git repository and open it in Android Studio. It is being developed on an Ubuntu 16.0 and MacOS using Android Studio as our development environment.
 
 ## Contributing
 
