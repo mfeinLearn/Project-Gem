@@ -42,7 +42,6 @@ You would need to download the following:
 
 Android Studio - https://developer.android.com/studio/index.html
 
-LibGDX - http://libgdx.badlogicgames.com/download.html
 
 ### Installing
 
