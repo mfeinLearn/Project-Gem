@@ -96,3 +96,7 @@ StarGem is released under the GNU GPLv? license. See LICENSE for details.
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+
+
+## Last Note
+We need your help! We want to make this game better then it already is! Share this with your friends and family and lets change the way people thinks for learning!
