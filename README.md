@@ -40,6 +40,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 You would need to download the following:
 
+Java - http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
 Android Studio - https://developer.android.com/studio/index.html
 
 
