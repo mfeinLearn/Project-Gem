@@ -32,11 +32,6 @@ StarGem makes use of auditory cues and signals like audio playback to help the u
 - The evolution of the challenges users face in game ensures a manageable yet challenging experience to put users in the best positions to internalize educational content and to want to become engaged.
 
 
-
-
-
-
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -45,9 +40,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 You would need to download the following:
 
-Android Studio - For Mac, Linux, Windows - https://developer.android.com/studio/index.html
+Android Studio - https://developer.android.com/studio/index.html
 
-LibGDX - For Mac, Linux, Windows - http://libgdx.badlogicgames.com/download.html
+LibGDX - http://libgdx.badlogicgames.com/download.html
 
 ### Installing
 
