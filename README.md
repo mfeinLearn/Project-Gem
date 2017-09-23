@@ -69,8 +69,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-You should be able to clone StarGem's Git repository and open it in Android Studio. It is being developed on Ubuntu 16.0? and Android Studio 
-1.?. [Dependencies](#dependencies) are included in the Git branch.
+You should be able to clone StarGem's Git repository and open it in Android Studio. It is being developed on an Ubuntu 16.0 and MacOS using Android Studio as our development environment.[Dependencies](#dependencies) are included in the Git branch.
 
 For full contributing requirements, please read our [Contributing](docs/Contributing.md) docs.
 
