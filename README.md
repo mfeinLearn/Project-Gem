@@ -88,7 +88,17 @@ https://developer.android.com/studio/index.html
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+To deploy the project follow the steps below:
+
+
+    1. Start Android Studio and close any open Android Studio projects.
+    2. From the Android Studio menu click 
+            open an existing Android Studio Project
+    3. Go into the StarGem project folder and click Ok.
+    4. Then click Ok again if the Sync Android SDKs pop up pops up 
+    5. You may have some errors... fix them
+    6. THen press build
+    7. Then Finally Run
 
 ## Built With
 
