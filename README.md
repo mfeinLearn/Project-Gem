@@ -110,6 +110,10 @@ Please read for details on our code of conduct, and the process for submitting p
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 ## License
 
 StarGem is released under the GNU GPLv? license. See LICENSE for details.
