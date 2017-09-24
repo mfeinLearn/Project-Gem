@@ -1,5 +1,3 @@
-
-
 # StarGem 
 > Welcome to StarGem...
 
