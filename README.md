@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+
 
 # StarGem 
 > Welcome to StarGem...
@@ -34,7 +34,7 @@ StarGem makes use of auditory cues and signals like audio playback to help the u
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These directions will help you get a copy of the project up and running on your computer for development and testing purposes.
 
 ### Prerequisites
 
@@ -47,11 +47,11 @@ Android Studio - https://developer.android.com/studio/index.html
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+The following step by step procedures will help you set up your development enviornment 
 
 #### Ubuntu
 
-First.....install Oracle Java JDK on Ubuntu Linux
+First..... install Oracle Java JDK on Ubuntu Linux
      
      sudo add-apt-repository ppa:webupd8team/java
      sudo apt-get update
@@ -75,7 +75,7 @@ https://askubuntu.com/questions/634082/how-to-install-android-studio-on-ubuntu
 
 #### Mac
 
-First.....install Oracle Java JDK on Mac
+First..... install Oracle Java JDK on Mac
 The link below will guide you in installing Java onto your Mac system:
 https://java.com/en/download/help/mac_install.xml
 
@@ -96,13 +96,12 @@ To deploy the project follow the steps below:
             open an existing Android Studio Project
     3. Go into the StarGem project folder and click Ok.
     4. Then click Ok again if the Sync Android SDKs pop up pops up 
-    5. You may have some errors... fix them
-    6. THen press build
-    7. Then Finally Run
+    5. Then press build
+    6. Then Finally Run
 
 ## Built With
 
-You should be able to clone StarGem's Git repository and open it in Android Studio. It is being developed on an Ubuntu 16.0 and MacOS using Android Studio as our development environment.
+You should be able to clone the project's Git repository and open it in Android Studio. Components of the project was developed on Ubuntu 16.04, Windows, and MacOS.
 
 ## Contributing
 
