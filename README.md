@@ -1,11 +1,11 @@
-# StarGem 
-> Welcome to StarGem...
+# Project Gem
+> Welcome to Project Gem...
 
-StarGem interactivity relies on the user identifying clear and intuitive visuals that convey the critical points of learning reading and writing in a way that is exciting and easy to understand. 
+Project Gem interactivity relies on the user identifying clear and intuitive visuals that convey the critical points of learning reading and writing in a way that is exciting and easy to understand. 
 
-StarGem makes use of auditory cues and signals like audio playback to help the users gain understanding of phonics by listening and repeating what they hear.
+Project Gem makes use of auditory cues and signals like audio playback to help the users gain understanding of phonics by listening and repeating what they hear.
 
-## StarGem - Powerful Results
+## Project Gem - Powerful Results
 
 ### Improved Communication Skills
 
@@ -13,7 +13,7 @@ StarGem makes use of auditory cues and signals like audio playback to help the u
 
 ### Lifetime of Academic Advantages
 
-- Whether it is introduced to the user as an early start or as an aid to help students who need extra help, StarGem offers resources that are easy to access to aid in improvement at various levels of understanding.
+- Whether it is introduced to the user as an early start or as an aid to help students who need extra help, Project Gem offers resources that are easy to access to aid in improvement at various levels of understanding.
 
 ### Enhanced Cognitive Process
 
@@ -92,7 +92,7 @@ To deploy the project follow the steps below:
     1. Start Android Studio and close any open Android Studio projects.
     2. From the Android Studio menu click 
             open an existing Android Studio Project
-    3. Go into the StarGem project folder and click Ok.
+    3. Go into the Project Gem project folder and click Ok.
     4. Then click Ok again if the Sync Android SDKs pop up pops up 
     5. Then press build
     6. Then Finally Run
@@ -118,7 +118,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-StarGem is released under the GNU GPLv? license. See LICENSE for details.
+Project Gem is released under the GNU GPLv? license. See LICENSE for details.
 
 ## Acknowledgments
 
