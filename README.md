@@ -112,8 +112,6 @@ Please read for details on our code of conduct, and the process for submitting p
 
 * **Omnipotence, LLC** - *Initial Team (Contributors)*
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 Project Gem is released under the GNU GPLv? license. See LICENSE for details.
