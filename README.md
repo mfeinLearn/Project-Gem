@@ -114,13 +114,7 @@ Please read for details on our code of conduct, and the process for submitting p
 
 ## License
 
-Project Gem is released under the GNU GPLv? license. See LICENSE for details.
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+Project Gem is released under the GNU GPLv3 license. See LICENSE for details.
 
 
 ## Last Note
