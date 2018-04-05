@@ -89,7 +89,7 @@ https://developer.android.com/studio/index.html
 To deploy the project follow the steps below:
 
 
-    1. Start Android Studio and close any open Android Studio projects.
+    1. Start Android Studio
     2. From the Android Studio menu click 
             open an existing Android Studio Project
     3. Go into the Project Gem project folder and click Ok.
