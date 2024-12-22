@@ -107,10 +107,12 @@ Please read for details on our code of conduct, and the process for submitting p
 
 ## Authors
 
-
+* **Khuram Chaudhry** - *Technical Lead/ Head Engineer*
+  
 * **Malcome Fein** - *Project Manager/Programmer Initial work*
 
 * **Omnipotence, LLC** - *Initial Team (Contributors)*
+
 
 ## License
 
